@@ -1,5 +1,4 @@
-## This function is aimed to create a ceche for a new matrix which computes the inversible matrix
-## for a designed one.
+## This function is aimed to create a ceche for a new matrix which computes the inversible matrix for a designed one.
 
 makeCacheMatrix <- function(x = matrix()) {
   ## Creat a new ceche for the function
